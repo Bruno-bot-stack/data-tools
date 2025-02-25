@@ -1,7 +1,7 @@
 ---
 title: GitHub Copilot Extension - Overview
 description: Install GitHub Copilot extension for Azure Data Studio and get started.
-author: croblesm
+author: Bruno_joe1994@live.com 
 ms.author: roblescarlos
 ms.reviewer: randolphwest, maghan
 ms.date: 02/06/2025
